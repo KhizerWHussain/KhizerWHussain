@@ -9,3 +9,4 @@
   Pinterest: https://www.pinterest.com/khizer0025/
   Quora: https://www.quora.com/profile/Khizer-Hussain-34
   WordPress Site: https://khizerhussain43769.wordpress.com/
+  Personal Site: https://khizerhussain.vercel.app/
