@@ -7,6 +7,5 @@
   Facebook: https://www.facebook.com/khussain255.255.255.0
   Instagram: https://www.instagram.com/khussain090818/?hl=en
   Pinterest: https://www.pinterest.com/khizer0025/
-  Quora: https://www.quora.com/profile/Khizer-Hussain-34
   WordPress Site: https://khizerhussain43769.wordpress.com/
   Personal Site: https://khizerhussain.vercel.app/
