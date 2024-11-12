@@ -18,7 +18,8 @@ Connect me on:
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook&logoColor=white)](https://www.facebook.com/khussain255.255.255.0)  
 
 
-[![Facebook](https://github.githubassets.com/images/icons/emoji/unicode/1f5e3.png)](https://facebook.com/yourusername)
-[![LinkedIn](https://github.githubassets.com/images/icons/emoji/unicode/1f465.png)](https://linkedin.com/in/yourusername)
-[![Website](https://github.githubassets.com/images/icons/emoji/unicode/1f310.png)](https://yourwebsite.com)
+[![Facebook](icons/facebook.png)](https://facebook.com/yourusername)
+[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/yourusername)
+[![Website](icons/website.png)](https://yourwebsite.com)
+
   
