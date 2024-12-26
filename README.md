@@ -3,7 +3,8 @@
 📫 Contact: khizwaseem@gmail.com
 
 
-🛠 Tech Stack
+🛠 Tech Stack 
+
 📜 Languages:
     JavaScript
 
@@ -23,8 +24,7 @@
     Docker
     
 🧪 Testing:
-    Postman
-    Thunder Client
+    Postman, Thunder Client
 
 Connect with me:
 
