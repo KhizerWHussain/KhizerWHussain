@@ -15,16 +15,25 @@
     React, Next.js
 
 🛢 Database:
-    MongoDB, PostgreSQL
+    MongoDB, PostgreSQL, Cloud-Native-Postgresql (NeonDB)
 
 ⚙️ Version Control:
     Git, GitHub, Bitbucket, GitLab
 
 ♾️ DevOps:
     Docker
+
+ORM: 
+    Prisma
+
+ODM:
+    Mongoose
     
 🧪 Testing:
     Postman, Thunder Client
+
+Documentation: 
+    Swagger-UI
 
 Connect with me:
 
