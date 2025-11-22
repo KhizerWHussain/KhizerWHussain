@@ -1,21 +1,20 @@
 👋 Hello! I’m Khizer Hussain
-👀 I'm a Full Stack Developer with expertise in building seamless user experiences on the frontend using React and Next.js and crafting efficient backend solutions with NestJS and ExpressJS.
+👀 I'm a Full Stack Developer with expertise in building seamless user experiences on the frontend using React.js and crafting efficient backend solutions with Node.js.
 📫 Contact: khizwaseem@gmail.com
-
 
 🛠 Tech Stack 
 
 📜 Languages:
-    JavaScript
+    JavaScript, Java
 
 🗄 Backend:
-    Node.js, ExpressJS, NestJS
+    Node.js, ExpressJS, NestJS, Springboot, Fastify
 
 🌐 Frontend:
     React, Next.js
 
 🛢 Database:
-    MongoDB, PostgreSQL, Cloud-Native-Postgresql (NeonDB)
+    MongoDB, PostgreSQL, Cloud-Native-Postgresql (NeonDB), Mssql, Mysql
 
 ⚙️ Version Control:
     Git, GitHub, Bitbucket, GitLab
@@ -24,7 +23,7 @@
     Docker
 
 ORM: 
-    Prisma
+    Prisma, Sequalize
 
 ODM:
     Mongoose
