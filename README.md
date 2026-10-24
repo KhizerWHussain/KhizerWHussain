@@ -5,7 +5,7 @@
 🛠 Tech Stack 
 
 📜 Languages:
-    JavaScript, Java
+    JavaScript, Typescript, Golang, Java
 
 🗄 Backend:
     Node.js, ExpressJS, NestJS, Springboot, Fastify
@@ -20,7 +20,7 @@
     Git, GitHub, Bitbucket, GitLab
 
 ♾️ DevOps:
-    Docker
+    Docker, Kubernetes
 
 ORM: 
     Prisma, Sequalize
